@@ -1,0 +1,7 @@
+1     monster     SelimBaran     5900
+2     Dell     EnesAy     9900
+3     Hp     YusufAri     6500
+4     Acer     MusaCan     3500
+5     Casper     HalilAvci     5780
+7     Excalibur     SalihVardi     6800
+6     Acer     HamitSerim     6500

@@ -1,0 +1,6 @@
+1       SelimBaran        547681240     1
+2       YusufAri        375214875     3
+3       HalilAvci        487514510     5
+4       EnesAy        394512597     2
+5       MusaCan        374588547     4
+9       SalihVardi        579632451     7
